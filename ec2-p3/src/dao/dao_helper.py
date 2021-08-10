@@ -1,4 +1,4 @@
-from config.db_config import get_local_connection as get_connection
+from config.db_config import get_connection as get_connection
 from config.loggingConfig import controller_log as logger
 
 

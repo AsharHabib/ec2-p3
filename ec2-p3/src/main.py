@@ -1,5 +1,6 @@
 # routes need to be touched by import once to proc the app import/setup
-from route import caliber, compare_batch
+from route import compare_batch, caliber, qc_info, trainer_associate_grades_view
+
 
 from config.flask_config import app
 
